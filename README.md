@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="th">
 <head>
   <meta charset="UTF-8">
@@ -45,12 +45,12 @@
     }
 
     .hero h2 {
-      font-size: 40px;
+      font-size: 50px;
       color: orange;
     }
 
     .hero p {
-      font-size: 18px;
+      font-size: 20px;
       margin: 20px 0;
     }
 
@@ -155,7 +155,7 @@
 
   <!-- FOOTER -->
   <footer>
-    © 2026 ร้านข้าวไก่ทอด | โทร: 08x-xxx-xxxx
+    © 2xxx ร้านxxxx | โทร: 08x-xxx-xxxx
   </footer>
 
 </body>
