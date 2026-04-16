@@ -139,13 +139,13 @@
       </div>
 
       <div class="item">
-        <img src="download1.jpg">
+        <img src="download(1).jpg">
         <h3>menu2</h3>
         <p>กลมกล่อม หอมละมุน</p>
       </div>
 
       <div class="item">
-        <img src="download.jpg">
+        <img src="download(2).jpg">
         <h3>menu3</h3>
         <p>เข้มข้น หอมเครื่องเทศ</p>
       </div>
