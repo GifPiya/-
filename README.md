@@ -133,19 +133,19 @@
     <div class="menu-items">
 
       <div class="item">
-        <img src="https://images.unsplash.com/photo-1562967916-eb82221dfb36">
+        <img src="download.jpg">
         <h3>menu1</h3>
         <p>เผ็ดหวาน เข้มข้น</p>
       </div>
 
       <div class="item">
-        <img src="https://images.unsplash.com/photo-1604908176997-431c0c4cba44">
+        <img src="download1.jpg">
         <h3>menu2</h3>
         <p>กลมกล่อม หอมละมุน</p>
       </div>
 
       <div class="item">
-        <img src="https://images.unsplash.com/photo-1617196038435-6a9c9c6b6c33">
+        <img src="download.jpg">
         <h3>menu3</h3>
         <p>เข้มข้น หอมเครื่องเทศ</p>
       </div>
